@@ -3,7 +3,7 @@
 A deep learning-powered web application that detects hate speech in real-time user input using RNN, LSTM, and BiLSTM models. This project aims to raise awareness and help reduce online toxicity by providing a simple, accessible detection tool.
 
 ## 🚀 Live Demo
-Try the app on **Streamlit**: [Live App Link]([https://your-streamlit-app-link](http://192.168.1.4:8501))
+Try the app on **Streamlit**: ([https://your-streamlit-app-link](http://192.168.1.4:8501))
 
 ---
 ## 📂 Project Structure
